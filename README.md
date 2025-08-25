@@ -5,7 +5,6 @@ This project compares the performance of a **Fully Connected Neural Network (FCN
 ---
 
 ## 📓 View the Notebook
-GitHub sometimes fails to render notebooks directly.  
 You can view the fully rendered notebook here:  
 [**Open in nbviewer**](https://nbviewer.org/github/JulianLee48/cifar10-cnn-fcnn/blob/main/cifar10_comparison.ipynb)
 
@@ -38,5 +37,3 @@ CNN significantly outperforms FCNN due to its ability to extract spatial feature
 - NumPy
 
 ---
-
-## 📂 Repository Structure
